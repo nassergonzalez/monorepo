@@ -1,6 +1,6 @@
 # AWS SQS Terraform module
 
-Terraform module which creates SQS resources on AWS 2.
+Terraform module which creates SQS resources on AWS 2234.
 
 ## Usage of the package
 
