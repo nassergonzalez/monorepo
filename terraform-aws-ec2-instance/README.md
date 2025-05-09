@@ -1,4 +1,4 @@
-# AWS EC2 Instance Terraform module
+# AWS EC2 Instance Terraform
 
 Terraform module which creates an EC2 instance on AWS.
 
